@@ -1,0 +1,7 @@
+#Mon Nov 20 00:30:31 CET 2017
+base.0=C\:\\Users\\Yasmina\\Desktop\\ad\\P8_Sokoban\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6f2da6e8565ac2602cbbb4c4b91c390735dfecea
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Yasmina\\Desktop\\ad\\P8_Sokoban\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_94ba0c18408216b7dc46e01f5522147006acec0b\\classes.dex
+base.1=C\:\\Users\\Yasmina\\Desktop\\ad\\P8_Sokoban\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_94ba0c18408216b7dc46e01f5522147006acec0b
+file.0=C\:\\Users\\Yasmina\\Desktop\\ad\\P8_Sokoban\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6f2da6e8565ac2602cbbb4c4b91c390735dfecea\\classes.dex
